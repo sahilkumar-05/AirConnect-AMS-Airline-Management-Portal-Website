@@ -1,0 +1,8 @@
+# HTML aur CSS ko language statistics se ignore karein
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
+
+
+# JavaScript ko as a primary detect karwane ke liye
+*.js linguist-detectable=true
